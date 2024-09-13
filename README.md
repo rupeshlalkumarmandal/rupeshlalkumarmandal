@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on web development projects.
 - 📫 How to reach me: inforupeshlal@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love reading books about positive mindset and creating YouTube Shorts.
+- ⚡ Fun fact: I love reading books about self help and creating YouTube Shorts.
 
 <!---
 rupeshlalkumarmandal/rupeshlalkumarmandal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
